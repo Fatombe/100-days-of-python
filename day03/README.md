@@ -3,6 +3,8 @@
 
 ## Exercise
 
+[Start lesson](https://replit.com/@appbrewery/day-3-start)
+
 - https://repl.it/@lenargasimov/day-3-1-exercise#main.py
 - https://repl.it/@lenargasimov/day-3-2-exercise#main.py
 - https://repl.it/@lenargasimov/day-3-3-exercise#main.py
